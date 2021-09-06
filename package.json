@@ -1,0 +1,17 @@
+{
+  "name": "Visualizer_Threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "three.js",
+  "dependencies": {
+    "@types/three": "^0.131.0",
+    "three": "^0.132.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
