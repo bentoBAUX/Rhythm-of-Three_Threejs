@@ -1,5 +1,5 @@
 # Rhythm of Three 
-Stylized audio visualiser in Three.js
+Stylised audio visualiser in Three.js
 
 The algorithm for this is from https://codepen.io/prakhar625 's audio visualiser codepen in which I altered the source code a little to suit my style of design and way of function. Click on anywhere on the screen to play and once more to pause.
 
